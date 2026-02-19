@@ -4,6 +4,15 @@ Hardware-Accelerated CNN Inference on Zynq SoC
 
 Hardware-Accelerated CNN Inference System on Xilinx Zynq SoC using FPGA Fabric
 
+🏆 Challenge
+
+This project is developed as part of the Bharat AI-SoC Student Challenge, focusing on FPGA-accelerated AI solutions on embedded SoC platforms.
+
+🧾 Problem Statement
+
+Problem Statement 5:
+Real-Time Object Detection Using Hardware-Accelerated CNN on Xilinx Zynq FPGA with Arm Processor
+
 🎯 Objective
 
 Design and implement a hardware-accelerated convolutional neural network (CNN) inference system on a Xilinx Zynq SoC, leveraging FPGA fabric to achieve real-time image classification or object detection and demonstrate performance improvement over CPU-only execution.
@@ -125,6 +134,14 @@ C. Gnanasree
 
 Electronics & Communication Engineering (ECE)
 
+👩‍🏫 Mentor
+
+G. SreeLaxmi
+
+🙏 Acknowledgement
+
+We sincerely thank our mentor G. SreeLaxmi for her valuable guidance, continuous support, and encouragement throughout the development of this project. Her insights and suggestions greatly helped us in successfully completing this hardware-accelerated CNN implementation.
+
 🎓 Learning Outcomes
 
 Embedded edge-AI on Zynq SoC
@@ -134,7 +151,3 @@ FPGA-based CNN acceleration
 ARM–FPGA hardware/software co-design
 
 Performance optimization of embedded AI systems
-
-📜 License
-
-Academic and educational use only.
